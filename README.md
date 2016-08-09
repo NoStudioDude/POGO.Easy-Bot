@@ -1,5 +1,5 @@
 # POGO.Easy-Bot
-Pokemon go bot using ![Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API)
+Pokemon go bot using [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API)
 
 # Screenshots
 ![1](https://github.com/NoStudioDude/POGO.Easy-Bot/blob/master/screenshot/1.png?raw=true)
